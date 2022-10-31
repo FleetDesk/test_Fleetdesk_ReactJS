@@ -1,36 +1,33 @@
 ## :FleetDesk_Flutter: About the test.
-In this test, you should create, using **Flutter**, a task list :scroll:.
+In this test, you should create a aplication mobile, using **Flutter**, a task list :scroll:.
 
-## :heavy_check_mark: Requisitos
+## :heavy_check_mark: Requirements
 
-* Frontend  
-  * [ ] Como usuário quero pode ver todas as minhas tarefas, por meio do meu login e senha.
-  * [ ] Como usuário quero poder identificar quais tarefas ainda não concluí.
-  * [ ] Como usuário quero poder ver quais tarefas eu já concluí.
-  * [ ] Como usuário quero poder marcar uma tarefa concluída e ter um feedback visual dessa mudança.
-  * [ ] Como usuário quero poder cadastrar novas tarefas.
-  * [ ] Como usuário quero poder alterar a descrição de uma tarefa.
-  * [ ] Como usuário quero poder excluir uma tarefa.
-  * [ ] Como usuário quero poder ver um relatório das minhas tarefas por status.  
-  * [ ] Como usuário quero poder fazer logoff do sistema.
+* Frontend App 
+   * [ ] As a user I want to be able to see all my tasks, through my login and password.
+   * [ ] As a user I want to be able to identify which tasks I haven't completed yet.
+   * [ ] As a user I want to be able to see which tasks I have already completed.
+   * [ ] As a user I want to be able to mark a completed task and get visual feedback on that change.
+   * [ ] As a user I want to be able to register new tasks.
+   * [ ] As a user I want to be able to change the description of a task.
+   * [ ] As a user I want to be able to delete a task.
+   * [ ] As a user I want to be able to see a report of my tasks by status.
+   * [ ] As a user I want to be able to log off the system.
   
-* Backend
-  * [ ] Todas operações do front devem ser suportadas via API :smile:
-  * [ ] Utilizar Autenticação por meio de um Token JWT.
-  * [ ] As tarefas deverão ser persistidas em algum database. (A critério do candidato).
+* Backend App
+   * [ ] Tasks must be persisted in some database. (At candidate's discretion).
 
-* Geral
-  * [ ] Design/Layout livre
-  * [ ] Utilizar Git, disponibilize a sua solução no github com um readme descrevendo como executar seu projeto :)
-  * [ ] Disponibilizar o projeto ~~na AWS~~ em alguma Cloud é um bônus.
-  * [ ] Disponibilizar o projeto em ambiente Docker (docker-compose) é um bônus.
+* General
+   * [ ] Free Design/Layout
+   * [ ] Using Git, make your solution available on github with a readme describing how to run your project :)
+   * [ ] Unit testing is a bonus
 
-## :green_heart: Critérios de avaliação
+## :green_heart: Rating criteria
 
-* [ ] Qualidade de código
-* [ ] Organização e estrutura do projeto
-* [ ] Componentização
-* [ ] Features 100% funcionais
-* [ ] Design/Layout da aplicação
-* [ ] Tratamentos de erros
-* [ ] Testes Unitários é um bônus
+* [ ] Code quality
+* [ ] Project organization and structure
+* [ ] Componentization
+* [ ] 100% functional features
+* [ ] Application Design/Layout
+* [ ] Error handling
+* [ ] Unit Testing is a bonus
