@@ -11,7 +11,7 @@ In this test, you should create a aplication mobile, using **Flutter**, a task l
    * [ ] As a user I want to be able to change the description of a task.
    * [ ] As a user I want to be able to delete a task.
    * [ ] As a user I want to be able to see a report of my tasks by status.
-   * [ ] As a user I want to be able to log off the system.
+
   
 * Backend App
    * [ ] Tasks must be persisted in some database. (At candidate's discretion).
