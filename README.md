@@ -4,7 +4,6 @@ In this test, you should create a aplication mobile, using **Flutter**, a task l
 ## :heavy_check_mark: Requirements
 
 * Frontend App 
-   * [ ] As a user I want to be able to see all my tasks, through my login and password.
    * [ ] As a user I want to be able to identify which tasks I haven't completed yet.
    * [ ] As a user I want to be able to see which tasks I have already completed.
    * [ ] As a user I want to be able to mark a completed task and get visual feedback on that change.
