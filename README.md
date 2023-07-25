@@ -1,5 +1,5 @@
-## :FleetDesk_Flutter: About the test.
-In this test, you should create a aplication mobile, using **Flutter**, a task list :scroll:.
+## :test_FleetDesk_ReactJS: About the test.
+In this test, you should create a aplication mobile, using **ReactJS**, a task list :scroll:.
 
 ## :heavy_check_mark: Requirements
 
@@ -14,14 +14,13 @@ In this test, you should create a aplication mobile, using **Flutter**, a task l
 
   
 * Backend App
-   * [ ] Tasks must be persisted in some database. (At candidate's discretion).
+   * [ ] Backend mock. (At candidate's discretion).
 
 * General
    * [ ] Free Design/Layout
    * [ ] Using Git, make your solution available on github with a readme describing how to run your project :)
    * [ ] Unit testing is a bonus
-   * [ ] Make the application installation apk available in git (Android)
-
+  
 ## :green_heart: Rating criteria
 
 * [ ] Code quality
