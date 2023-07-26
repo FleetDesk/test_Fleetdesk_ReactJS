@@ -1,5 +1,5 @@
 ## :test_FleetDesk_ReactJS: About the test.
-In this test, you should create a aplication mobile, using **ReactJS**, a task list :scroll:.
+In this test, you should create a aplication, using **ReactJS**, a task list :scroll:.
 
 ## :heavy_check_mark: Requirements
 
